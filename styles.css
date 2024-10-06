@@ -1,0 +1,25 @@
+.bigTitle{
+    color:maroon;
+    background-color:rgb(167, 255, 226);
+    font-size: 100px;
+    margin-top: -100px;
+}
+.pageStuff{
+    background-color: rgb(167, 255, 226);
+
+}
+.topLeft{
+    display: flex;
+}
+.novaLogo{
+    width:50px;
+    height:50px;
+    text-align-last: center;
+}
+.topLeftNova{
+    margin: -50;
+}
+.gamesHP{
+    height: 100%;
+    width: 400%;
+}
